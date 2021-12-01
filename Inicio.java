@@ -8,9 +8,7 @@
  16:  *  
  22: public class Laberinto { 
  23: 
- 24:   /**
- 25:    *  Creates a small maze with 2 rooms. 
- 26:    */ 
+ 24:   
  27:   public static Maze createMaze() { 
  28:     Maze maze = new Maze(); 
  29:     Room room1 = new Room(1); 
